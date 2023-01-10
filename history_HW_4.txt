@@ -1,0 +1,15 @@
+   0 vi /tmp/file.txt
+   1 ls /etc/group
+   2 cat /etc/group
+   3 cat /etc/group |head 3| head-1
+   4 cat /etc/group |head 3
+   5 cat /etc/group | head 3
+   6 cat /etc/group | head -3
+   7 cat /etc/group | head -3 | tail -1
+   8 cat /etc/group | head -3 | tail -1 >> /tmp/file.txt
+   9 vi /tmp/file.txt
+  10 chmod g+w /tmp/file.txt
+  11 chmod u-w /tmp/file.txt
+  12 chmod 0+x /tmp/file.txt
+  13 chmod o+x /tmp/file.txt
+  14 history > /tmp/history.txt
