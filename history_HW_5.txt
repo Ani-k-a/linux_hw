@@ -1,1 +1,11 @@
-
+   0 nano script.sh
+   1 chmod 774 script.sh
+   2 /root/script.sh
+   3 chmod 777 script.sh
+   4 /root/script.sh
+   5 nano script.sh
+   6 /script.sh
+   7 /root/script.sh
+   8 nano script.sh
+   9 /root/script.sh
+  10 history >> history.txt
